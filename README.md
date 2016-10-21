@@ -1,8 +1,8 @@
-# SuperTome
+# Tome of Awesome
 
 This book is a collection of Tome stuff.
 
-There's more Tome stuff at this point than can possibly go into a single book. Literally, Tome as a whole has even become self-contradictory in some places because different authors have each made their own versions of how things should be. I've done my best to pick the variants that go the best together, but ultimately this is all just my own personal assessment of how things should go together.
+There's more Tome stuff at this point than can possibly go into a single book. Literally, "The Tome Universe" as a whole has even become self-contradictory in some places because different authors have each made their own versions of how things should be. This is a best effort attempt to patch everything together, but of course nobody's perfect.
 
 ## What Is Tome?
 
