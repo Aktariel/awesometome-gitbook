@@ -8,16 +8,19 @@ At least, that's the idea. In truth, there are those who take upon the mantle of
 ## Playing a Samurai
 
 <!-- samurai description -->
+__Alignment:__ The Samurai can be of any alignment. All of them must maintain the veneer of honor and civility, though there is no reason that they have to actually be Lawful.
+
+__Races:__ The Samurai is primarily found in societies where the law of the land is held in primacy over other things. So while a Samurai himself does not have to be Lawful, Lawful races bear the vast majority of Samurai.
+
+__Starting Gold:__ 4d6x10 gp (140 gold), plus one masterwork weapon.
+
+__Starting Age:__ As Fighter.
 
 __Hit Die:__ d8
 
-__Class Skills:__ Balance, Climb, Concentration, Craft, Diplomacy, Escape Artist, Hide, Jump, Knowledge (Any), Listen, Move Silently, Perform, Profession, Sense Motive, Swim, and Tumble.
+__Class Skills:__ The Samurai's class skills (and the key ability for each skill) are Balance (Dex), Climb (Str), Concentration (Con), Craft (Int), Diplomacy (Cha), Escape Artist (Dex), Hide (Dex), Jump (Str), Knowledge (all skills individually) (Int), Listen (Wis), Move Silently (Dex), Perform (Cha), Profession (Wis), Sense Motive (Wis), Swim (Str), and Tumble (Dex).
 
-__Skill Points Per Level:__ 4 + Intelligence Modifier
-
-__BAB:__ Full
-
-__Saves:__ Will Good, Fort and Reflex Poor.
+__Skills/Level:__ 4 + Intelligence Bonus
 
 | Level  | Base Attack Bonus | Fort Save | Ref Save | Will Save| Special |
 | ------ | ----------------- | --------- | -------- | -------- | ------- |
@@ -26,7 +29,7 @@ __Saves:__ Will Good, Fort and Reflex Poor.
 | 3rd | +3 | | | | Kiai! |
 | 4th | +4 | | | | Whirlwind Attack |
 | 5th | +5 | | | | Ancestral Guidance |
-| 6th | +6/+1 | | | | Blind ghting, Terrible Blows |
+| 6th | +6/+1 | | | | Blindfighting, Terrible Blows |
 | 7th | +7/+2 | | | | Iaijutsu |
 | 8th | +8/+3 | | | | Parry Magic |
 | 9th | +9/+4 | | | | Subtle Cut |
