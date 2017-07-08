@@ -2374,7 +2374,7 @@ equipment which is well within the capabilities of an Effigy Master to
 acquire or produce. While the simulacrum is still a “CR 3 Creature” –
 once it has been armed and equipped it is *much* more formidable.
 
-**Simulacrum with Equipment**\
+**Simulacrum with Equipment**
 
 Denizens of the Planes of Law
 -----------------------------
